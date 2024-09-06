@@ -10,8 +10,18 @@ Experienced iOS Software Engineer with 6+ years of proven expertise in developin
 
 ## Work Experience
 
+### Mentor | Kodeco
+**Sept 2024 - Present**
+- Resumed mentoring and instructional support for developers, focusing on advanced iOS topics.
+- Developed personalized learning strategies and interactive lessons to help students apply concepts in real-world projects.
+
 ### Mentor | Kodeco (formerly RayWenderlich)
-**Jan 2024 - Present**
+**May 2024 - Jun 2024**
+- Delivered instructional support specifically on VisionOS, teaching new and existing developers the fundamentals of creating immersive apps for spatial computing devices.
+- Conducted hands-on projects and facilitated discussions to ensure practical understanding of VisionOS.
+
+### Mentor | Kodeco (formerly RayWenderlich)
+**Jan 2024 - Apr 2024**
 - Provide comprehensive mentoring and instructional support to aspiring developers.
 - Design personalized learning strategies tailored to individual learning styles and goals.
 - Conduct interactive lessons with a focus on practical application and real-world scenarios.
@@ -48,8 +58,8 @@ Experienced iOS Software Engineer with 6+ years of proven expertise in developin
 - **Kodeco**
   - iOS Development Certificate with High Honors | 2023 - 2024
 
-- **Apple Developer Enterprise Track**
-  - Graduated with certificate & selected for a presentation of my capstone app
+- **Apple Developer Academy - Enterprise Track**
+  - Graduated with certificate & selected for a presentation of my capstone app, *ColorsKeeper*. The presentation was attended by notable figures including the CFO of Apple, the Italian Prime Minister, and a crowd of approximately 300-500 attendees.
 
 ---
 
