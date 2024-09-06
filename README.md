@@ -68,7 +68,8 @@ Experienced iOS Software Engineer with 6+ years of proven expertise in developin
 - **LinkedIn**: [linkedin.com/in/cjroura](https://linkedin.com/in/cjroura)
 - **Email**: cjroura@email.com
 - **Phone**: (646) 939-8026
-- **GitHub**: [github.com/elGordoRoura](https://github.com/elGordoRoura)
+- **Favor/Teaching GitHub**: [github.com/elGordoRoura](https://github.com/elGordoRoura)
+- **Personal GitHub**: [github.com/cjroura](https://github.com/cjroura)
 
 ---
 
